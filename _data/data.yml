@@ -4,16 +4,16 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: info@lcibelly.com
   github: johndoe
   linkedin: johndoe
-  phone: 
+  phone: (00) 0000-0000
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Portuguese
   - idiom: English
-  - idiom: Russian
   - idiom: French
 
 education:
