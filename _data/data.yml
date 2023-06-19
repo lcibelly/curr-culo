@@ -7,7 +7,7 @@ contact:
   email: info@lcibelly.com
   github: johndoe
   linkedin: johndoe
-  phone: (00) 0000-0000
+  phone: (00) 0000-0000.
   gitlab: 
   twitter: 
 
@@ -18,7 +18,7 @@ languages:
 
 education:
   - degree: MSc in Informatics
-    time: 2014-2016
+    time: 2023-2026
     university: Ionian University
 
   - degree: BSc in Computer Science
