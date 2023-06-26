@@ -5,16 +5,16 @@ fork: true
 # Sidebar
 contact:
   email: info@lcibelly.com
-  github: johndoe
-  linkedin: johndoe
+  github: l.cibelly
+  linkedin: l.cibelly
   phone: (00) 0000-0000.
   gitlab: 
-  twitter: 
+  twitter: lcibelly
 
 languages:
   - idiom: Portuguese
   - idiom: English
-  - idiom: French
+  - idiom: French 
 
 education:
   - degree: MSc in Informatics
@@ -22,7 +22,7 @@ education:
     university: Ionian University
 
   - degree: BSc in Computer Science
-    time: 2010-2014
+    time: 2026-2030
     university: Ionian University
 
 skills:
